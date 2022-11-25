@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lezcanosaraa/my-quiz-react/static/css/main.4a81441b.css",
+    "main.js": "/lezcanosaraa/my-quiz-react/static/js/main.ae39587a.js",
+    "index.html": "/lezcanosaraa/my-quiz-react/index.html",
+    "main.4a81441b.css.map": "/lezcanosaraa/my-quiz-react/static/css/main.4a81441b.css.map",
+    "main.ae39587a.js.map": "/lezcanosaraa/my-quiz-react/static/js/main.ae39587a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a81441b.css",
+    "static/js/main.ae39587a.js"
+  ]
+}
