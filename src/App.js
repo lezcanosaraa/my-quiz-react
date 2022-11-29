@@ -21,6 +21,12 @@ export default function App() {
     }
   };
 
+  const restarQuiz = () => {
+    setScore(0)
+    setCurrentQuestion(0)
+    setShowScore(false)
+  }
+
   return (
     <div className="App">
       {showScore ? (
@@ -28,6 +34,7 @@ export default function App() {
           <h1>
             Your score is {score} out of {questions.length}
           </h1>
+          <button onClick={() => restarQuiz()} className="buttonQuiz">Restar the quiz</button>
         </div>
       ) : (
         <>
